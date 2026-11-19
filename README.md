@@ -71,6 +71,20 @@ Hidden message: Some things remain unseen.
 
 These commands are intended to be run in a terminal from the project folder.
 
+## Visual Demonstration
+
+### Original Image
+
+![Original image](original.png)
+
+### Image Containing a Hidden Message
+
+![Image with concealed text](secret.png)
+
+Both images appear virtually identical, although the second contains a hidden text message.
+
+**Message recovered:** "Some things remain unseen."
+
 ## Files
 
 - `hidden_messages.py` — Python source code
